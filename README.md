@@ -1,14 +1,17 @@
-# Default starter for Gridsome
+# Pug + Stylus + Tailwind CSS starter for Gridsome
 
-This is the project you get when you run `gridsome create new-project`.
+> A simple starter that incorporates Pug, Stylus, and Tailwind CSS.
 
-### 1. Install Gridsome CLI tool if you don't have
+
+## Install
+
+### 1. Install Gridsome CLI if you don't already have it
 
 `npm install --global @gridsome/cli`
 
-### 2. Create a Gridsome project
+### 2. Install this starter
 
-1. `gridsome create my-gridsome-site` to install default starter
+1. `gridsome create my-gridsome-site https://github.com/as3k/gridsome-starter-pug-stylus` 
 2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
+3. `npm run dev` to start a local dev server at `http://localhost:8080`
 4. Happy coding 🎉🙌
