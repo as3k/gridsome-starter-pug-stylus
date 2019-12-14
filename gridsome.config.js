@@ -6,5 +6,13 @@
 
 module.exports = {
   siteName: 'Gridsome',
-  plugins: []
+  plugins: [],
+  css: {
+    loaderOptions: {
+      stylus: {
+        test: /\.styl$/,
+        loader: 'stylus-loader'
+      }
+    }
+  }
 }
