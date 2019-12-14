@@ -1,8 +1,8 @@
-<template>
-  <Layout>
-    <h1>About us</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error doloremque omnis animi, eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem dolores inventore iste reprehenderit maxime! Iusto.</p>
-  </Layout>
+<template lang="pug">
+  Layout
+    h1 About Us
+    p Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea dolor eius repudiandae tenetur magni repellat minus saepe. Accusantium exercitationem, dolorum porro magnam voluptatem inventore consectetur nihil provident blanditiis, hic beatae.
+  
 </template>
 
 <script>

@@ -3,8 +3,8 @@
   "private": true,
   "scripts": {
     "build": "gridsome build",
-    "develop": "gridsome develop",
-    "explore": "gridsome explore"
+    "dev": "gridsome develop",
+    "gql": "gridsome explore"
   },
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^1.3.0",
