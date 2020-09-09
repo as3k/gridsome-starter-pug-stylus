@@ -1,8 +1,6 @@
 <template lang="pug">
   .layout(class="relative")
     page-header
-    
-    div(v-if="spicy" class="w-full bg-red-500 h-24")
 
     slot
   
