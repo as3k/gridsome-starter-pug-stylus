@@ -9,6 +9,7 @@
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^2.3.0",
     "gridsome": "^0.7.0",
+    "gridsome-plugin-tailwind": "^0.0.2",
     "pug": "^2.0.4",
     "pug-plain-loader": "^1.0.0",
     "stylus": "^0.54.8",
