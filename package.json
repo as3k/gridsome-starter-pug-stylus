@@ -10,7 +10,7 @@
     "@fullhuman/postcss-purgecss": "^2.3.0",
     "gridsome": "^0.7.0",
     "gridsome-plugin-tailwind": "^0.0.2",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "pug-plain-loader": "^1.0.0",
     "stylus": "^0.54.8",
     "stylus-loader": "^3.0.2",
